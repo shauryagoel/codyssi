@@ -1,0 +1,10 @@
+[package]
+name = "codyssi"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "2024_problem_1"
+path = "src/bin/2024/problem_1.rs"
+
+[dependencies]
