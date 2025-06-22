@@ -3,8 +3,12 @@ name = "codyssi"
 version = "0.1.0"
 edition = "2024"
 
+[dependencies]
+
 [[bin]]
 name = "2024_problem_1"
 path = "src/bin/2024/problem_1.rs"
 
-[dependencies]
+[[bin]]
+name = "2024_problem_2"
+path = "src/bin/2024/problem_2.rs"
